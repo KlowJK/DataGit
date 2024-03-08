@@ -1,0 +1,10 @@
+E:\Năm 2\Kì 2\Lập Trình Window\Data\DuAn\bin\Debug\DuAn.exe.config
+E:\Năm 2\Kì 2\Lập Trình Window\Data\DuAn\bin\Debug\DuAn.exe
+E:\Năm 2\Kì 2\Lập Trình Window\Data\DuAn\bin\Debug\DuAn.pdb
+E:\Năm 2\Kì 2\Lập Trình Window\Data\DuAn\obj\Debug\DuAn.csproj.AssemblyReference.cache
+E:\Năm 2\Kì 2\Lập Trình Window\Data\DuAn\obj\Debug\DuAn.Form1.resources
+E:\Năm 2\Kì 2\Lập Trình Window\Data\DuAn\obj\Debug\DuAn.Properties.Resources.resources
+E:\Năm 2\Kì 2\Lập Trình Window\Data\DuAn\obj\Debug\DuAn.csproj.GenerateResource.cache
+E:\Năm 2\Kì 2\Lập Trình Window\Data\DuAn\obj\Debug\DuAn.csproj.CoreCompileInputs.cache
+E:\Năm 2\Kì 2\Lập Trình Window\Data\DuAn\obj\Debug\DuAn.exe
+E:\Năm 2\Kì 2\Lập Trình Window\Data\DuAn\obj\Debug\DuAn.pdb
